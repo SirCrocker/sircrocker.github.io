@@ -1,0 +1,23 @@
+<packageInfo>
+    <bundleId>com.sircrocker.tesseract</bundleId>
+    <name>Tesseract logo for Zeppelin</name>
+    <version>0.0.1</version>
+    <descriptions>
+        <description>
+            A tesseract image that you can implement instead of the carrier.
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>8.0</miniOS>
+        <maxiOS>11.1.2</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>zeppelin</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V0.0.1</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
