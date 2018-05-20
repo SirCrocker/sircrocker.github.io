@@ -22,5 +22,6 @@
 	<change>
 	    <changeVersion>V0.0.2</changeVersion>
 	    <changeDescription>Fixed DS_Store problem</changeDescription>
+	</change>
     </changelog>
 </packageInfo>
