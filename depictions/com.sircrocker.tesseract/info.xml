@@ -19,5 +19,8 @@
             <changeVersion>V0.0.1</changeVersion>
             <changeDescription>Initial Release</changeDescription>
         </change>
+	<change>
+	    <changeVersion>V0.0.2</changeVersion>
+	    <changeDescription>Fixed DS_Store problem</changeDescription>
     </changelog>
 </packageInfo>
